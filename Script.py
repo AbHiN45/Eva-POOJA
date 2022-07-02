@@ -1,4 +1,4 @@
-class script(object):
+Jiclass script(object):
     START_TXT = """👋 𝙷𝙴𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 {},\n 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽..."""
     HELP_TXT = """𝙷𝙴𝚈 {}
@@ -12,7 +12,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝚅1.0.43 [𝙼𝙰𝙹𝙾𝚁]"""
     SOURCE_TXT = """<b>NOTE:</b>
 
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴 👉 :<a href=https://github.com/AbHiN45/Eva-POOJA>ᴩᴏᴏᴊᴀ-ʙɪᴛ</a>
+- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴 👉 :<a href=https://github.com/AbHiN45/Eva-POOJA>𝙿𝙾𝙾𝙹𝙰-𝙱𝙾𝚃</a>
 
 <b>DEVS:</b>
 - 𝙳𝚎𝚟<a href=https://t.me/NJaNu_yir>𝙰𝙱𝙷𝙸</a>"""
