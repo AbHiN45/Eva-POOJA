@@ -28,7 +28,7 @@ Jiclass script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/mkn_bots_updates https://t.me/mkn_bots_updates</code>
+<code>/batch https://t.me/MWM_Films https://t.me/MWM_Films</code>
 
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/NJaNu_yir><b>𝙰𝙱𝙷𝙸</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
