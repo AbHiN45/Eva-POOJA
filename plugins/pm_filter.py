@@ -1146,7 +1146,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "carb":
         R1 = await query.message.reply_photo(
-                 photo="https://telegra.ph/file/2e2a07e86066538ed7406.jpg",
+                 photo="https://telegra.ph/file/b1c258d9cb9cda3b791f6.jpg",
                  caption=script.CARB_TXT,
                  parse_mode='html'
         )
