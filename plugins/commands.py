@@ -236,6 +236,7 @@ async def start(client, message):
         except Exception as e:
             logger.exception(e)
             f_caption=f_caption
+            reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('💥𝙹𝙾𝙸𝙽 𝙽𝙾𝚆💥', url='https://t.me/MWM_Films') ] ] ),
     if f_caption is None:
         f_caption = f"{files.file_name}"
     await client.send_cached_media(
