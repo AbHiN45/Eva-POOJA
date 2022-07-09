@@ -15,6 +15,7 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 
 - 𝚃𝙷𝙸𝚂 𝙸𝚂 𝙰𝙽 𝙴𝚅𝙰𝙼𝙰𝚁𝙸𝙰 𝙲𝙻𝙾𝙽𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃❤️
+
 - 𝙵𝙾𝚁 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴 👉 :<a href=https://github.com/AbHiN45/Eva-POOJA>𝙿𝙾𝙾𝙹𝙰-𝙱𝙾𝚃</a>
 
 <b>ADMINS:</b>
