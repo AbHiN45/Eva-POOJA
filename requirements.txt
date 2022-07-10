@@ -9,6 +9,7 @@ requests
 bs4
 Pyromod
 imdbpy==2021.4.18
+Heroku3
 youtube-dl
 youtube_search
 requests
@@ -49,4 +50,4 @@ ffmpeg
 Pillow
 ujson
 speedtest
-Heroku3
+
